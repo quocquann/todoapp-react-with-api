@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/todoapp-react-with-api/static/css/main.a49ca731.css",
+    "main.js": "/todoapp-react-with-api/static/js/main.70169c2e.js",
+    "static/js/787.2843ca88.chunk.js": "/todoapp-react-with-api/static/js/787.2843ca88.chunk.js",
+    "static/media/edit-icon.svg": "/todoapp-react-with-api/static/media/edit-icon.3c0798e51aa5259046634e3e0e78e39f.svg",
+    "static/media/trash-icon.svg": "/todoapp-react-with-api/static/media/trash-icon.5da57f4840c078471799932d3947dead.svg",
+    "static/media/cancel-icon.svg": "/todoapp-react-with-api/static/media/cancel-icon.9471504f86c834aa80bb5c1b7f5a4ee2.svg",
+    "static/media/check-icon.svg": "/todoapp-react-with-api/static/media/check-icon.89f17883bf4731f53859ec5186c110c9.svg",
+    "index.html": "/todoapp-react-with-api/index.html",
+    "main.a49ca731.css.map": "/todoapp-react-with-api/static/css/main.a49ca731.css.map",
+    "main.70169c2e.js.map": "/todoapp-react-with-api/static/js/main.70169c2e.js.map",
+    "787.2843ca88.chunk.js.map": "/todoapp-react-with-api/static/js/787.2843ca88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a49ca731.css",
+    "static/js/main.70169c2e.js"
+  ]
+}
