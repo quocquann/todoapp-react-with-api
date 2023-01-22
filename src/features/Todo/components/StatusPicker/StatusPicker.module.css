@@ -1,0 +1,24 @@
+.status-picker {
+  display: flex;
+  border-right: none;
+}
+
+.status {
+  cursor: pointer;
+  border: 1px solid var(--border-color-base);
+  border-right: none;
+  padding: 5px 10px;
+}
+
+.status:last-child {
+  border-right: 1px solid var(--border-color-base);
+}
+
+.status:hover {
+  color: var(--color-primary);
+}
+
+.status.active {
+  background-color: var(--color-primary);
+  color: #fff;
+}

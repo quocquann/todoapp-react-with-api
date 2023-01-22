@@ -1,0 +1,41 @@
+.button {
+  height: 45px;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.button:hover:not(:disabled){
+    opacity: 0.6;
+}
+
+.button:disabled{
+  background-color: var(--border-color-base);
+  cursor: not-allowed;
+}
+
+
+.primary {
+  background-color: var(--color-primary);
+}
+
+.danger {
+  background-color: var(--color-danger);
+}
+
+.large {
+  width: 100%;
+}
+
+.medium {
+  width: 45px;
+  height: 45px;
+}
+
+.rounded {
+  border-radius: 9999px;
+}
